@@ -3,8 +3,4 @@
   <a href="http://crackbreakmake.com/" target="_blank">
     <img src="portfolio.gif" alt="Interactive Portfolio Preview" width="100%" style="border-radius: 8px;">
   </a>
-  <br>
-  <p>
-    <a href="http://crackbreakmake.com/"><b>Explore the live site &rarr;</b></a>
-  </p>
 </div>
