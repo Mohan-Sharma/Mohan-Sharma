@@ -1,10 +1,5 @@
 <div align="center">
-  <h3>Interactive 3D Portfolio</h3>
   <a href="http://crackbreakmake.com/" target="_blank">
-    <img src="portfolio.gif" alt="Interactive Portfolio Preview" width="100%" style="border-radius: 10px; min-width: 800px; aspect-ratio: 16/9">
+    <img src="portfolio.gif" alt="Interactive Portfolio Preview" style="border-radius: 10px; min-width: 800px; aspect-ratio: 16/9; height: 100%; width: 100%">
   </a>
-  <br>
-  <p>
-    <a href="http://crackbreakmake.com/"><b>Explore the live site &rarr;</b></a>
-  </p>
 </div>
