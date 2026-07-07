@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="http://crackbreakmake.com/" target="_blank">
+  <a href="https://imohansharma.com/" target="_blank">
     <img src="portfolio.gif" 
          alt="Interactive Portfolio Preview" 
          style="border-radius: 10px; height: 100%; width: 100%; min-width: 1080px">
